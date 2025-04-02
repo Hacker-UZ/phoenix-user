@@ -1,4 +1,4 @@
-import phoenix.client, phoenix.kick, phoenix.ketdim, phoenix.uzbrun, phoenix.whyrun, phoenix.iloveyou, phoenix.goodnight, phoenix.ahelp, phoenix.konspekt, phoenix.lovelyrun, phoenix.bombs, phoenix.help, phoenix.loading, phoenix.emoji, phoenix.dump, phoenix.sexy, phoenix.type, phoenix.magicrun, phoenix.animation, phoenix.animation2, phoenix.mute, phoenix.fuck, phoenix.rev, phoenix.tr, phoenix.userinfo, phoenix.base64, phoenix.react, phoenix.snow, phoenix.smsbomb, phoenix.rename, phoenix.iptrace, phoenix.spam, phoenix.alive, phoenix.tagall, phoenix.afk, phoenix.timer, phoenix.ping
+import phoenix.client, phoenix.kick, phoenix.ketdim, phoenix.uzbrun, phoenix.whyrun, phoenix.iloveyou, phoenix.goodnight, phoenix.ahelp, phoenix.konspekt, phoenix.lovelyrun, phoenix.bombs, phoenix.help, phoenix.loading, phoenix.emoji, phoenix.dump, phoenix.sexy, phoenix.type, phoenix.magicrun, phoenix.animation, phoenix.animation2, phoenix.mute, phoenix.fuck, phoenix.rev, phoenix.tr, phoenix.userinfo, phoenix.react, phoenix.snow, phoenix.smsbomb, phoenix.rename, phoenix.iptrace, phoenix.spam, phoenix.alive, phoenix.tagall, phoenix.afk, phoenix.timer, phoenix.ping
 import phoenix.allanimations as allanim
 import os
 from keep_alive import keep_alive
@@ -45,8 +45,7 @@ client.add_event_handler(phoenix.mute.mute)
 client.add_event_handler(phoenix.fuck.fuck)
 client.add_event_handler(phoenix.rev.rev)
 client.add_event_handler(phoenix.tr.tr)
-client.add_event_handler(phoenix.userinfo.userinfo)
-client.add_event_handler(phoenix.base64.runb64)				
+client.add_event_handler(phoenix.userinfo.userinfo)				
 client.add_event_handler(phoenix.react.react)
 client.add_event_handler(phoenix.snow.snow)
 client.add_event_handler(phoenix.rename.rename)	

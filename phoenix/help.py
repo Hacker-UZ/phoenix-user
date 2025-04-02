@@ -61,19 +61,18 @@ Umumiy modullar: 63
 [48] Afk - Afk mode - .afk-on <text> / .afk-off / .afk-info
 [49] Numbers - Numbers - .numbers <number>
 [50] Tag all - tag group members - .tagall
-[51] Base64 - shifrlash - .b64 en <reply text> .b64 de <reply encoded message>
-[52] Find - find delete accounts - .finda
-[53] Picture save - save the picture - .psave
-[54] Remove - Admin function remove delete accounts - .removeakk
-[55] Ip trace - ip osint - .iptrace <ip addres>
-[56] Rename - .rename <Firstname> / <Lastname>
-[57] Userinfo - User information - .userinfo <reply>
-[58] Sms flood - Spam message  - .spam <time> <count> <text>
-[59] Message save - save  message - .msave
-[60] Rgm - reload get message - .rgm
-[61] Reverse - reverse text - .rev <reply>
-[62] Konspekt - konspekt yozish - .konspekt <reply message>
-[63] Tr - Translator - .tr <language code > <reply message>
+[51] Find - find delete accounts - .finda
+[52] Picture save - save the picture - .psave
+[53] Remove - Admin function remove delete accounts - .removeakk
+[54] Ip trace - ip osint - .iptrace <ip addres>
+[55] Rename - .rename <Firstname> / <Lastname>
+[56] Userinfo - User information - .userinfo <reply>
+[57] Sms flood - Spam message  - .spam <time> <count> <text>
+[58] Message save - save  message - .msave
+[59] Rgm - reload get message - .rgm
+[60] Reverse - reverse text - .rev <reply>
+[61] Konspekt - konspekt yozish - .konspekt <reply message>
+[62] Tr - Translator - .tr <language code > <reply message>
 [++] Animation help - .ahelp
 				  		  
 Developer: @programmer_www

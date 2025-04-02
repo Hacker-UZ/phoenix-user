@@ -3,7 +3,6 @@ aiocron
 emoji
 asyncio
 datetime
-base64
 gpytranslate
 pytz
 gtts

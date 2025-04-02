@@ -18,7 +18,7 @@ Telegram channel: @phoenix_userbot
 """)
       
 #string = input("Press enter: ")
-string = os.environ.get('SESSION')
+string = "1ApWapzMBuxVRIm3ddVwKN8LJwPN57zoQK8QG6ivWaklChZjXwQI92UY7Oz3OQ6Fi-n_HJxEqorQsc6_7Ff-XsythnoKIDA1QLc84XGbXdlGiK_gsxoYUKyLDmz7PClhQAX7122ePVGrX61FEmpzMvHmTLN8hvfIz3Vx7jrT0NVvPmiIguh5gKyayveJhOqf9rRXbFQtZDOJZEULplwIYTIQx1F6tYz0zpMAV86yNDj6VCDCIwfyzf7YdH7l1R0wq7f-WSphOLg_Zide_zzFHwAtSScx_9s-QfYuUYfoSwO01O5Zl9XTF5_Mr821hrDWJRhFhmLtOTisH61HDJpHr86Mi_MibjYg="
 
 client = TelegramClient(StringSession(string), api_id, api_hash)
 #phone_number = input("Please enter your phone (or bot token): ")
