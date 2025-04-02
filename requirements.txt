@@ -7,3 +7,4 @@ gpytranslate
 pytz
 gtts
 qrcode
+flask
